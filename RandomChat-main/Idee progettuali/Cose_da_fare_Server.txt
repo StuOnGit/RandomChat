@@ -1,0 +1,26 @@
+- Creazione file con nomi delle stanze, divise fra loro da un carattere noto. 
+
+- File per ogni stanza, contenente i file delle chat di quella determinata stanza
+
+- Accoppiare persone in coda nelle determinate stanze (controllo che le ultime due assegnazioni consecutive non siano state con la stessa persona)
+
+- Indirizzo IP + Nickname = chiave primaria
+
+- Leggere (da client1) e inviare (a client2) e viceversa 
+
+- Creare file nella stanza del totale degli Utenti, con indirizzi IP e se sono in attesa o meno, e le ultime due persone con cui ha parlato nella stessa stanza.
+
+
+- Gestire la chiusura da parte di uno dei due client della chat, chiudere i thread, cancellare il file dedicato a quella stanza,  
+
+- Scrivere sullo stdoutput chi chiede la connessione, chi si collega etc..
+
+	    * Natura
+1 chat	nicola    francesca (file) // nicola: Ciao; francesca: hey; 
+2 chat  Luca      Piero 
+
+
+
+*****
+Francesco -Ip:123.123.534.23 Occupato: 0 Lista delle ultime 2 persone: Luca -Ip:123.123.534.23 , Andrea -Ip: 123.123.534.23;
+ 

@@ -1,0 +1,14 @@
+- Fare richieste al server per vedere le stanze e farle vedere, con relative persone collegate
+
+- Accedere alla stanza e mettersi in attesa per poter parlare con un'altra persona
+
+- Poter inviare messaggi testuali
+
+- Poter chiudere la connessione in qualunque momento
+
+- Poter uscire dalla stanza, e rientrare in un'altra stanza (potendo parlare anche con la stessa persona)
+
+- Poter leggere messaggi già inviati da parte di entrambi
+
+- Usare servizio: speech recognition del client android.
+

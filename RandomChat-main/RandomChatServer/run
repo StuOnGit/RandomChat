@@ -1,0 +1,8 @@
+#!/bin/sh
+
+if gcc -pthread server.c structures/searcher.c structures/link.c structures/roomvector.c structures/room.c structures/queue.c auxServer.c -o server
+then
+./server
+else 
+echo "c'è qualche problema\n"
+fi

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Random Chat</string>
+    <string name="loading">Loading...</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="nickname">Nickname</string>
+    <string name="waiting_for_anyone_to_chat">Waiting for anyone to chat!</string>
+</resources>
